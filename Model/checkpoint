@@ -1,0 +1,2 @@
+model_checkpoint_path: "P:/Item/EEG-Drone/PyQt/Model/temp.ckpt"
+all_model_checkpoint_paths: "P:/Item/EEG-Drone/PyQt/Model/temp.ckpt"
