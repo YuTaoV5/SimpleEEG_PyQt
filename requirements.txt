@@ -1,0 +1,12 @@
+matplotlib==3.5.2
+netron==6.0.7
+numpy==1.23.3
+pynput==1.7.6
+PyQt5==5.15.7
+pyqtgraph==0.12.4
+pyserial==3.5
+qt_material==2.12
+scipy==1.8.0
+tensorflow==2.10.0
+tensorflow_gpu==2.10.0
+vtk==9.1.0
