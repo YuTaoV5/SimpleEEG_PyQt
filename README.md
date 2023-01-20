@@ -1,7 +1,16 @@
 # README
 
 ## Video
-<iframe src="//player.bilibili.com/player.html?aid=604263850&bvid=BV1t84y1q7UU&cid=869184327&page=1" scrolling="no" border="0" frameborder="no" framespacing="0" allowfullscreen="true"> </iframe>
+
+<iframe
+src="//player.bilibili.com/player.html?aid=604263850&bvid=BV1t84y1q7UU&cid=869184327&page=1"
+scrolling="no"
+border="0"
+frameborder="no"
+framespacing="0"
+allowfullscreen="true">
+</iframe>
+
 ## Example
 ```
 pip install -r requirements.txt
