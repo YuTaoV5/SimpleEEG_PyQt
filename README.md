@@ -2,13 +2,7 @@
 
 ## Video
 
-<iframe  
- height=850 
- width=90% 
- src="https://www.bilibili.com/video/BV1t84y1q7UU/?share_source=copy_web&vd_source=5c96f762c988c468ce28dd44872b19b8"  
- frameborder=0  
- allowfullscreen>
-</iframe>
+[bilibili](https://www.bilibili.com/video/BV1t84y1q7UU/?share_source=copy_web&vd_source=5c96f762c988c468ce28dd44872b19b8)
 
 ## Example
 ```
